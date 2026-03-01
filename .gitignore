@@ -1,0 +1,13 @@
+__pycache__/
+*.session
+.env
+data/
+reports/
+error.log
+out.txt
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+brain/

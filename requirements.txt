@@ -1,0 +1,5 @@
+telethon
+groq
+flask
+fpdf2
+python-dotenv
