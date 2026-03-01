@@ -2,7 +2,7 @@
 ### Social on Auto-Pilot — Relationship Intelligence Dashboard
 
 Reflect AI connects to your Telegram, analyzes your conversations using a large language model, and gives you a live dashboard showing the health of every relationship — with actionable insights and a drafted message ready to send.
-
+VIDEO LINK: https://drive.google.com/file/d/1HbrRwoT9ZP3dkOqgP-MuqXo_EnJhy_Ny/view?usp=drive_link
 ---
 
 ## Pipeline
